@@ -24,5 +24,6 @@ This project is a simple Anime Database Management System (DMS) that allows user
 ## Getting Started
 1. Clone the repository:
 2. Open the project in IntelliJ IDEA.
-3. Run the AnimeApp class to start the application.
+3. Run the AnimeDatabaseTest to run checks
+4. Run the AnimeApp class to start the application.
 
