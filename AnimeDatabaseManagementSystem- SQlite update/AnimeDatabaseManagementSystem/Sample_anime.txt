@@ -1,0 +1,26 @@
+Title,Genre,Episodes,Rating,Studio,StartYear,EndYear,Type
+Naruto,Action,220,8.3,Studio Pierrot,2002,2007,TV
+One Piece,Adventure,1000,9.0,Toei Animation,1999,0,TV
+Your Name,Romance,1,8.4,CoMix Wave Films,2016,2016,Movie
+Attack on Titan,Action,75,9.1,Wit Studio,2013,2021,TV
+My Neighbor Totoro,Fantasy,1,8.2,Studio Ghibli,1988,1988,Movie
+Fullmetal Alchemist: Brotherhood,Action,64,9.2,Bones,2009,2010,TV
+Spirited Away,Fantasy,1,8.6,Studio Ghibli,2001,2001,Movie
+Death Note,Thriller,37,8.7,Madhouse,2006,2007,TV
+Dragon Ball Z,Action,291,8.1,Toei Animation,1989,1996,TV
+Cowboy Bebop,Sci-Fi,26,8.9,Sunrise,1998,1999,TV
+Demon Slayer,Action,26,8.8,Ufotable,2019,2019,TV
+Neon Genesis Evangelion,Mecha,26,8.5,Gainax,1995,1996,TV
+Sword Art Online,Adventure,25,7.6,A-1 Pictures,2012,2012,TV
+Fate/Zero,Action,25,8.3,Ufotable,2011,2012,TV
+Tokyo Ghoul,Horror,12,7.9,Pierrot,2014,2014,TV
+One Punch Man,Action,12,8.8,Madhouse,2015,2015,TV
+Bleach,Action,366,7.9,Pierrot,2004,2012,TV
+Fairy Tail,Adventure,328,7.7,A-1 Pictures,2009,2019,TV
+Black Clover,Adventure,170,8.2,Pierrot,2017,2021,TV
+Gintama,Comedy,367,8.9,Sunrise,2006,2018,TV
+Re:Zero,Fantasy,25,8.3,White Fox,2016,2016,TV
+Steins;Gate,Sci-Fi,24,9.1,White Fox,2011,2011,TV
+Hunter x Hunter,Adventure,148,9.0,Madhouse,2011,2014,TV
+JoJo's Bizarre Adventure,Action,152,8.4,David Production,2012,2019,TV
+Mob Psycho 100,Action,25,8.6,Bones,2016,2019,TV
