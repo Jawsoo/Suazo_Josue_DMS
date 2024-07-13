@@ -33,7 +33,7 @@ The graphical user interface (GUI) has been enhanced to improve the user experie
 ## SQLite Update
 The SQLite database has been integrated to enhance data management:
 
-**Schema**: The database schema has been defined to include fields like title, genre, episodes, rating, studio, start year, end year, and type.
-**Data Population**: The database has been populated with at least 20 different anime entries.
-**CRUD Operations**: The application supports full CRUD operations on the SQLite database.
-**File Path Input**: Users are prompted to input the file path for the SQLite database, ensuring flexibility and compatibility across different systems.
+- **Schema**: The database schema has been defined to include fields like title, genre, episodes, rating, studio, start year, end year, and type.
+- **Data Population**: The database has been populated with at least 20 different anime entries.
+- **CRUD Operations**: The application supports full CRUD operations on the SQLite database.
+- **File Path Input**: Users are prompted to input the file path for the SQLite database, ensuring flexibility and compatibility across different systems.
