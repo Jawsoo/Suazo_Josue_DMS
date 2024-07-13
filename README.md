@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Josue Suazo
 - **Course:** Software Development I CEN-3024C
-- **Date:** 6/12/2024 (Update 1: 6/19/2024, GUI Update : 7/1/2024)
+- **Date:** 6/12/2024 (Update 1: 6/19/2024, GUI Update : 7/1/2024, SQlite update 7/10/2024)
 
 ## Project Objective
 The Anime Database Management System is a Java-based application that provides a graphical user interface (GUI) to manage a list of anime. The application supports various CRUD operations (Create, Read, Update, Delete) and includes features to load anime data from a file, search, and print the list of anime. This project aims to provide a simple yet functional tool to manage anime data efficiently.
