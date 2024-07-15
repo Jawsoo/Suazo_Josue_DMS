@@ -1,27 +1,3 @@
-Title,Genre,Episodes,Rating,Studio
-Naruto,Action,220,8.3,Studio Pierrot
-One Piece,Adventure,1000,8.7,Toei Animation
-Attack on Titan,Action,75,9.0,Wit Studio
-My Hero Academia,Action,88,8.5,Bones
-Sword Art Online,Fantasy,96,7.6,A-1 Pictures
-Death Note,Thriller,37,9.0,Madhouse
-Fullmetal Alchemist: Brotherhood,Adventure,64,9.2,Bones
-Tokyo Ghoul,Horror,48,7.9,Studio Pierrot
-Bleach,Action,366,7.9,Studio Pierrot
-Demon Slayer,Action,26,8.9,Ufotable
-Dragon Ball Z,Action,291,8.2,Toei Animation
-Hunter x Hunter,Adventure,148,9.0,Madhouse
-Steins;Gate,Sci-Fi,24,8.8,White Fox
-One Punch Man,Action,24,8.8,Madhouse
-Code Geass,Mecha,50,8.7,Sunrise
-Fairy Tail,Fantasy,328,7.9,A-1 Pictures
-Re:Zero,Sci-Fi,50,8.3,White Fox
-Gintama,Comedy,367,8.7,Sunrise
-JoJo's Bizarre Adventure,Action,152,8.4,David Production
-Fate/Stay Night: Unlimited Blade Works,Fantasy,26,8.2,Ufotable
-Neon Genesis Evangelion,Mecha,26,8.3,Gainax
-Cowboy Bebop,Adventure,26,8.9,Sunrise
-Clannad,Drama,23,8.1,Kyoto Animation
-Your Lie in April,Romance,22,8.6,A-1 Pictures
-Haikyuu!!,Sports,85,8.7,Production I.G
-Erased,Mystery,12,8.5,A-1 Pictures
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee0b59ad6b284bb5d673b5f3652eead74d63c37e1023891f1eea04b15afaabf3
+size 1099
