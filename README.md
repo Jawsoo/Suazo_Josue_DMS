@@ -63,6 +63,7 @@ Make sure you have the following libraries in the lib directory:
 3. Set the Paths for the Libraries:
 
 Copy code:
+
 export PATH_TO_FX="/path/to/your/javafx-sdk-23/lib"
 export PATH_TO_SQLITE_JDBC="/path/to/your/sqlite-jdbc-3.46.0.0.jar"
 export PATH_TO_SLF4J="/path/to/your/slf4j-api-1.7.32.jar:/path/to/your/log4j-over-slf4j-1.7.32.jar:/path/to/your/slf4j-simple-1.7.32.jar"
@@ -74,6 +75,7 @@ Replace /path/to/your/ with the actual path where your libraries are located.
 If the JAR file is in the Downloads folder, run the following command:
 
 Copy code:
+
 java --module-path $PATH_TO_FX:$PATH_TO_SQLITE_JDBC:$PATH_TO_SLF4J --add-modules javafx.controls,javafx.fxml -jar /Users/jawjiro/Downloads/AnimeDatabaseManagementSystem.jar
 
 Make sure to replace /Users/jawjiro/Downloads/ with the path where the JAR file is located if it’s different.
