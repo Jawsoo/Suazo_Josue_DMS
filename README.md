@@ -54,11 +54,11 @@ cd Suazo_Josue_DMS
 
 Make sure you have the following libraries in the lib directory:
 
-javafx-sdk-23
-sqlite-jdbc-3.46.0.0.jar
-slf4j-api-1.7.32.jar
-log4j-over-slf4j-1.7.32.jar
-slf4j-simple-1.7.32.jar
+- javafx-sdk-23
+- sqlite-jdbc-3.46.0.0.jar
+- slf4j-api-1.7.32.jar
+- log4j-over-slf4j-1.7.32.jar
+- slf4j-simple-1.7.32.jar
 
 3. Set the Paths for the Libraries:
 
