@@ -38,6 +38,9 @@ The SQLite database has been integrated to enhance data management:
 - **CRUD Operations**: The application supports full CRUD operations on the SQLite database.
 - **File Path Input**: Users are prompted to input the file path for the SQLite database, ensuring flexibility and compatibility across different systems.
 
+
+## JAR update
+
 How to Run the JAR file
 To run the application, you need to have JavaFX and the SQLite JDBC driver. 
 
