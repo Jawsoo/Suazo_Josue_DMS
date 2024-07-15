@@ -37,3 +37,40 @@ The SQLite database has been integrated to enhance data management:
 - **Data Population**: The database has been populated with at least 20 different anime entries.
 - **CRUD Operations**: The application supports full CRUD operations on the SQLite database.
 - **File Path Input**: Users are prompted to input the file path for the SQLite database, ensuring flexibility and compatibility across different systems.
+
+How to Run the JAR file
+To run the application, you need to have JavaFX and the SQLite JDBC driver. 
+
+1. Clone or download the Repository:
+
+Copy code:
+git clone https://github.com/Jawsoo/Suazo_Josue_DMS.git
+cd Suazo_Josue_DMS
+
+2. Ensure the Required Libraries are Present:
+
+Make sure you have the following libraries in the lib directory:
+
+javafx-sdk-23
+sqlite-jdbc-3.46.0.0.jar
+slf4j-api-1.7.32.jar
+log4j-over-slf4j-1.7.32.jar
+slf4j-simple-1.7.32.jar
+
+3. Set the Paths for the Libraries:
+
+Copy code:
+export PATH_TO_FX="/path/to/your/javafx-sdk-23/lib"
+export PATH_TO_SQLITE_JDBC="/path/to/your/sqlite-jdbc-3.46.0.0.jar"
+export PATH_TO_SLF4J="/path/to/your/slf4j-api-1.7.32.jar:/path/to/your/log4j-over-slf4j-1.7.32.jar:/path/to/your/slf4j-simple-1.7.32.jar"
+
+Replace /path/to/your/ with the actual path where your libraries are located.
+
+4. Run the JAR File:
+
+If the JAR file is in the Downloads folder, run the following command:
+
+Copy code:
+java --module-path $PATH_TO_FX:$PATH_TO_SQLITE_JDBC:$PATH_TO_SLF4J --add-modules javafx.controls,javafx.fxml -jar /Users/jawjiro/Downloads/AnimeDatabaseManagementSystem.jar
+
+Make sure to replace /Users/jawjiro/Downloads/ with the path where the JAR file is located if it’s different.
