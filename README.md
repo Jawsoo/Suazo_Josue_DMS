@@ -79,3 +79,8 @@ Copy code:
 java --module-path $PATH_TO_FX:$PATH_TO_SQLITE_JDBC:$PATH_TO_SLF4J --add-modules javafx.controls,javafx.fxml -jar /Users/jawjiro/Downloads/AnimeDatabaseManagementSystem.jar
 
 Make sure to replace /Users/jawjiro/Downloads/ with the path where the JAR file is located if it’s different.
+
+
+## Final Update
+Thank you for following the development of the Anime Database Management System. The final update includes GUI adjustments for improved user experience.
+"""
