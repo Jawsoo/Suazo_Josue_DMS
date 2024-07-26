@@ -83,4 +83,3 @@ Make sure to replace /Users/jawjiro/Downloads/ with the path where the JAR file 
 
 ## Final Update
 Thank you for following the development of the Anime Database Management System. The final update includes GUI adjustments for improved user experience.
-"""
