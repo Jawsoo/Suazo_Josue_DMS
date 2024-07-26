@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"AnimeDatabase","l":"Anime"},{"p":"AnimeDatabase","l":"AnimeApp"},{"p":"AnimeDatabase","l":"AnimeDatabase"},{"p":"AnimeDatabase","l":"AnimeDatabaseGUI"}];updateSearchResults();

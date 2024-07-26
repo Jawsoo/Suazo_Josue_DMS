@@ -1,0 +1,122 @@
+Title,Genre,Episodes,Rating,Studio,StartYear,EndYear,Type
+Naruto,Action,220,8.3,Studio Pierrot,2002,2007,TV
+One Piece,Adventure,1000,9.0,Toei Animation,1999,0,TV
+Your Name,Romance,1,8.4,CoMix Wave Films,2016,2016,Movie
+Attack on Titan,Action,75,9.1,Wit Studio,2013,2021,TV
+My Neighbor Totoro,Fantasy,1,8.2,Studio Ghibli,1988,1988,Movie
+Fullmetal Alchemist: Brotherhood,Action,64,9.2,Bones,2009,2010,TV
+Spirited Away,Fantasy,1,8.6,Studio Ghibli,2001,2001,Movie
+Death Note,Thriller,37,8.7,Madhouse,2006,2007,TV
+Dragon Ball Z,Action,291,8.1,Toei Animation,1989,1996,TV
+Cowboy Bebop,Sci-Fi,26,8.9,Sunrise,1998,1999,TV
+Demon Slayer,Action,26,8.8,Ufotable,2019,2019,TV
+Neon Genesis Evangelion,Mecha,26,8.5,Gainax,1995,1996,TV
+Sword Art Online,Adventure,25,7.6,A-1 Pictures,2012,2012,TV
+Fate/Zero,Action,25,8.3,Ufotable,2011,2012,TV
+Tokyo Ghoul,Horror,12,7.9,Pierrot,2014,2014,TV
+One Punch Man,Action,12,8.8,Madhouse,2015,2015,TV
+Bleach,Action,366,7.9,Pierrot,2004,2012,TV
+Fairy Tail,Adventure,328,7.7,A-1 Pictures,2009,2019,TV
+Black Clover,Adventure,170,8.2,Pierrot,2017,2021,TV
+Gintama,Comedy,367,8.9,Sunrise,2006,2018,TV
+Re:Zero,Fantasy,25,8.3,White Fox,2016,2016,TV
+Steins;Gate,Sci-Fi,24,9.1,White Fox,2011,2011,TV
+Hunter x Hunter,Adventure,148,9.0,Madhouse,2011,2014,TV
+JoJo's Bizarre Adventure,Action,152,8.4,David Production,2012,2019,TV
+Mob Psycho 100,Action,25,8.6,Bones,2016,2019,TV
+Naruto Shippuden,Action,500,8.6,Studio Pierrot,2007,2017,TV
+Dragon Ball,Action,153,8.5,Toei Animation,1986,1989,TV
+Akira,Sci-Fi,1,8.0,TMS Entertainment,1988,1988,Movie
+Ghost in the Shell,Sci-Fi,1,8.0,Production I.G,1995,1995,Movie
+Princess Mononoke,Fantasy,1,8.4,Studio Ghibli,1997,1997,Movie
+Code Geass,Mecha,50,8.7,Sunrise,2006,2008,TV
+Hellsing Ultimate,Action,10,8.4,Madhouse,2006,2012,OVA
+Kimi no Na wa,Romance,1,8.4,CoMix Wave Films,2016,2016,Movie
+Howl's Moving Castle,Fantasy,1,8.2,Studio Ghibli,2004,2004,Movie
+The Promised Neverland,Horror,23,8.6,CloverWorks,2019,2021,TV
+Paranoia Agent,Thriller,13,8.0,Madhouse,2004,2004,TV
+Elfen Lied,Horror,13,7.5,Arms,2004,2004,TV
+Claymore,Action,26,7.8,Madhouse,2007,2007,TV
+Inuyasha,Adventure,167,7.9,Sunrise,2000,2004,TV
+Great Teacher Onizuka,Comedy,43,8.5,Pierrot,1999,2000,TV
+Bakuman,Slice of Life,75,8.3,J.C.Staff,2010,2013,TV
+Anohana,Drama,11,8.4,A-1 Pictures,2011,2011,TV
+Samurai Champloo,Action,26,8.5,Manglobe,2004,2005,TV
+Blue Exorcist,Action,25,7.5,A-1 Pictures,2011,2011,TV
+Erased,Thriller,12,8.5,A-1 Pictures,2016,2016,TV
+No Game No Life,Fantasy,12,8.3,Madhouse,2014,2014,TV
+Psycho-Pass,Sci-Fi,22,8.4,Production I.G,2012,2013,TV
+Noragami,Action,12,8.0,Bones,2014,2014,TV
+The Seven Deadly Sins,Action,24,8.1,A-1 Pictures,2014,2015,TV
+Yu Yu Hakusho,Adventure,112,8.5,Pierrot,1992,1995,TV
+Kuroko no Basket,Sports,75,8.2,Production I.G,2012,2015,TV
+Rurouni Kenshin,Adventure,95,8.3,Studio Gallop,1996,1998,TV
+Trigun,Action,26,8.2,Madhouse,1998,1998,TV
+Tengen Toppa Gurren Lagann,Mecha,27,8.7,Gainax,2007,2007,TV
+Neon Genesis Evangelion: The End of Evangelion,Mecha,1,8.6,Gainax,1997,1997,Movie
+Clannad,Drama,23,8.0,Kyoto Animation,2007,2008,TV
+Clannad: After Story,Drama,24,8.8,Kyoto Animation,2008,2009,TV
+Kill la Kill,Action,24,8.1,Trigger,2013,2014,TV
+Higurashi: When They Cry,Horror,26,7.9,Studio Deen,2006,2006,TV
+Monogatari Series,Slice of Life,15,8.2,Shaft,2009,2019,TV
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Drama,11,8.5,A-1 Pictures,2011,2011,TV
+Made in Abyss,Adventure,13,8.8,Kinema Citrus,2017,2017,TV
+Angel Beats!,Action,13,7.8,P.A. Works,2010,2010,TV
+K-On!,Music,13,7.9,Kyoto Animation,2009,2009,TV
+Madoka Magica,Fantasy,12,8.4,Shaft,2011,2011,TV
+Shokugeki no Souma,Ecchi,24,8.3,J.C.Staff,2015,2015,TV
+Toradora!,Romance,25,8.2,J.C.Staff,2008,2009,TV
+Boku no Hero Academia,Action,13,8.2,Bones,2016,2016,TV
+Re:Zero kara Hajimeru Isekai Seikatsu,Fantasy,25,8.3,White Fox,2016,2016,TV
+Owari no Seraph,Action,12,7.5,Wit Studio,2015,2015,TV
+Berserk,Action,25,8.4,OLM,1997,1998,TV
+Log Horizon,Adventure,25,8.0,Satelight,2013,2014,TV
+Haikyuu!!,Sports,25,8.5,Production I.G,2014,2014,TV
+Durarara!!,Action,24,8.2,Brain's Base,2010,2010,TV
+Nichijou,Comedy,26,8.5,Kyoto Animation,2011,2011,TV
+Assassination Classroom,Comedy,47,8.1,Lerche,2015,2016,TV
+Violet Evergarden,Drama,13,8.6,Kyoto Animation,2018,2018,TV
+Devilman Crybaby,Action,10,7.6,Science SARU,2018,2018,TV
+The Rising of the Shield Hero,Fantasy,25,8.0,Kinema Citrus,2019,2019,TV
+Overlord,Fantasy,39,8.0,Madhouse,2015,2018,TV
+Saiki Kusuo no Psi-nan,Comedy,120,8.3,J.C.Staff,2016,2018,TV
+Your Lie in April,Drama,22,8.8,A-1 Pictures,2014,2015,TV
+Goblin Slayer,Fantasy,12,7.4,White Fox,2018,2018,TV
+Kaguya-sama: Love is War,Comedy,12,8.5,A-1 Pictures,2019,2019,TV
+D.Gray-man,Action,103,8.0,TMS Entertainment,2006,2008,TV
+Hyouka,Mystery,22,8.0,Kyoto Animation,2012,2012,TV
+Shingeki no Kyojin: The Final Season,Action,28,9.1,Mappa,2020,2021,TV
+A Silent Voice,Drama,1,8.2,Kyoto Animation,2016,2016,Movie
+The Quintessential Quintuplets,Comedy,12,7.7,Tezuka Productions,2019,2019,TV
+My Hero Academia Season 2,Action,25,8.4,Bones,2017,2017,TV
+My Hero Academia Season 3,Action,25,8.5,Bones,2018,2018,TV
+My Hero Academia Season 4,Action,25,8.1,Bones,2019,2020,TV
+Sword Art Online: Alicization,Adventure,24,7.6,A-1 Pictures,2018,2019,TV
+Sword Art Online: Alicization - War of Underworld,Adventure,12,7.9,A-1 Pictures,2019,2020,TV
+The Disastrous Life of Saiki K.,Comedy,120,8.3,J.C.Staff,2016,2018,TV
+March Comes in Like a Lion,Drama,44,8.5,Shaft,2016,2018,TV
+Dr. Stone,Adventure,24,8.2,TMS Entertainment,2019,2019,TV
+Beastars,Drama,12,8.0,Orange,2019,2019,TV
+Vinland Saga,Action,24,8.8,Wit Studio,2019,2019,TV
+Promised Neverland Season 2,Horror,11,5.9,CloverWorks,2021,2021,TV
+Black Lagoon,Action,24,8.0,Madhouse,2006,2006,TV
+Fruits Basket (2019),Drama,63,8.5,TMS Entertainment,2019,2021,TV
+Kakegurui,Drama,12,7.3,Mappa,2017,2017,TV
+To Your Eternity,Adventure,20,8.5,Brain's Base,2021,2021,TV
+Komi Can't Communicate,Comedy,12,8.1,OLM,2021,2021,TV
+86,Eight-Six,Sci-Fi,11,8.0,A-1 Pictures,2021,2021,TV
+Chainsaw Man,Action,12,8.7,Mappa,2022,2022,TV
+Call of the Night,Romance,13,7.6,LIDENFILMS,2022,2022,TV
+Cyberpunk: Edgerunners,Sci-Fi,10,8.4,Trigger,2022,2022,TV
+Spy x Family,Comedy,12,8.9,Wit Studio,2022,2022,TV
+Tower of God,Action,13,7.8,Telecom Animation Film,2020,2020,TV
+Jujutsu Kaisen,Action,24,8.8,Mappa,2020,2021,TV
+Horimiya,Romance,13,8.2,CloverWorks,2021,2021,TV
+Yuru Camp△,Slice of Life,12,8.3,C-Station,2018,2018,TV
+Wonder Egg Priority,Drama,12,7.8,CloverWorks,2021,2021,TV
+Hajime no Ippo,Action,75,8.7,Madhouse,2000,2002,TV
+Mushoku Tensei: Jobless Reincarnation,Fantasy,11,8.4,Studio Bind,2021,2021,TV
+The God of High School,Action,13,7.4,Mappa,2020,2020,TV
+Rent-A-Girlfriend,Romance,12,7.3,TMS Entertainment,2020,2020,TV
+ID: Invaded,Thriller,13,7.8,Naz,2020,2020,TV
+Fire Force,Action,24,7.7,David Production,2019,2019,TV
